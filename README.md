@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tirtanax
-- 👀 I’m interested in programming web
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in a Web Programming 
+- 🌱 I’m currently learning a Laravel
 - 💞️ I’m looking to collaborate on PHP & Javascript
 
 <!---
